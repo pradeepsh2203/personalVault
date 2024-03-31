@@ -128,13 +128,21 @@
                 "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md"
               }
             }
+          },
+          {
+            "id": "03510c9349bc2ec6",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
