@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "right": {
     "id": "3249d1be78556a40",
@@ -136,13 +136,22 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "beac45a55e2f8726",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cec7088e5af0eae",
+  "active": "624b6cc956560cc2",
   "lastOpenFiles": [
-    "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
     "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+    "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
     "Reinforcement learning/Neural Network",
     "Reinforcement learning/Section 3-Q learning/The Bellman Equation.md",
     "Reinforcement learning/Section5-Deep Q Learning",
