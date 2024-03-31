@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0a4e40bd63a9b920",
+    "type": "split",
+    "children": [
+      {
+        "id": "d62cb3d08720590e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cec7088e5af0eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f46903e120d6844",
+    "type": "split",
+    "children": [
+      {
+        "id": "3988145f21a365bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624b6cc956560cc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bdb9ec52ddd8782",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cce2b5c0808d3063",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3249d1be78556a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ad7e1b7ce12635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df76806328c74a29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d4a5f0ebc51b129",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aa864abe721ac44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ccf148c932f0d34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1cec7088e5af0eae",
+  "lastOpenFiles": [
+    "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
+    "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+    "Reinforcement learning/Neural Network",
+    "Reinforcement learning/Section 3-Q learning/The Bellman Equation.md",
+    "Reinforcement learning/Section5-Deep Q Learning",
+    "Excalidraw/ONDC.excalidraw.md",
+    "Ideas/ONDC.md",
+    "computer network/UDP(User datagram protocol).md",
+    "Excalidraw/UDP structure.excalidraw.md",
+    "computer network/ICMP (Internet Control Message Protocol).md",
+    "Excalidraw/Markov's Decision Process.excalidraw.md",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2024-03-22 01.03.22.excalidraw.md",
+    "4913",
+    "Untitled.canvas",
+    "2024-03-22.md",
+    "Pasted image 20240210235540.png",
+    "Pasted image 20231218152645.png",
+    "Reinforcement learning/Section 3-Q learning",
+    "Reinforcement learning",
+    "Untitled",
+    "Excalidraw/Untitled.md",
+    "Spring/Annotations.md",
+    "Spring/Spring External properties.md",
+    "computer network/Computer Networks.md",
+    "Excalidraw/ARP_lookup.excalidraw.md",
+    "computer network/ARP (Address Resolution Protocol).md",
+    "computer network",
+    "Spring/Lombock.md",
+    "Spring/Spring Data JPA.md",
+    "Spring/Spring Configuration.md",
+    "Spring/Dependency injection.md",
+    "Excalidraw/Drawing 2023-12-17 16.59.45.excalidraw.md",
+    "Spring/Spring Profiles.md",
+    "Ideas/Open Source Ride booking App.md",
+    "Ideas",
+    "Spring",
+    "Solid Principle of OOP.md",
+    "IP Address.md",
+    "Excalidraw"
+  ]
+}

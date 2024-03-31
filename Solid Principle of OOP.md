@@ -1,0 +1,18 @@
+*SOLID stands for*
+- **Single Responsibility**
+	- Every class should have a single responsibility
+	- Your classes should be small
+	- There should never be more than one reason for a class to change.
+- **Open Closed Principle**
+	- Your classes should be open for extension
+	- But closed for modification
+	- You should be able to extend a class behavior, without modifications.
+	- Use private variables with getters and setters 
+	- Use abstract base classes.
+- Liskov Substitution Principle
+	- Any Child class should be able to perform every task a parent class can do
+- Interface Segregation Principle
+	- An interface should only contain methods that are closely related so any class implementing that interface does not implement methods that the class will not require
+- Dependency Inversion Principle
+	- Abstractions should not depend on details.
+	- Details should depend upon abstractions.
