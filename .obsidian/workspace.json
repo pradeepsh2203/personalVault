@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
+                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md"
+                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md"
               }
             }
           },
@@ -164,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "624b6cc956560cc2",
+  "active": "1cec7088e5af0eae",
   "lastOpenFiles": [
     "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
     "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
