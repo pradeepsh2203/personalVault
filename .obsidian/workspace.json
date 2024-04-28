@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
+                "file": "Ideas/RentIt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
+                "file": "Ideas/RentIt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
+                "file": "Ideas/RentIt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md"
+                "file": "Ideas/RentIt.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "1cec7088e5af0eae",
   "lastOpenFiles": [
-    "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
     "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
+    "Ideas/RentIt.md",
+    "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
     "Reinforcement learning/Neural Network",
     "Reinforcement learning/Section 3-Q learning/The Bellman Equation.md",
     "Reinforcement learning/Section5-Deep Q Learning",
@@ -204,7 +205,6 @@
     "Ideas",
     "Spring",
     "Solid Principle of OOP.md",
-    "IP Address.md",
     "Excalidraw"
   ]
 }
