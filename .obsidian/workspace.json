@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "959800a84792c4aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "temp/Drawing 2024-07-14 17.37.49.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/RentIt.md",
+                "file": "temp/Drawing 2024-07-14 17.37.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/RentIt.md",
+                "file": "temp/Drawing 2024-07-14 17.37.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/RentIt.md"
+                "file": "temp/Drawing 2024-07-14 17.37.49.excalidraw.md"
               }
             }
           },
@@ -164,10 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cec7088e5af0eae",
+  "active": "959800a84792c4aa",
   "lastOpenFiles": [
-    "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
     "Ideas/RentIt.md",
+    "temp/Drawing 2024-07-14 17.37.49.excalidraw.md",
+    "temp",
+    "Reinforcement learning/Section5-Deep Q Learning/Deep Q-Learning.md",
     "Reinforcement learning/Neural Network/Annex-1 Artificial Neural Network.md",
     "Reinforcement learning/Neural Network",
     "Reinforcement learning/Section 3-Q learning/The Bellman Equation.md",
@@ -187,7 +200,6 @@
     "Pasted image 20231218152645.png",
     "Reinforcement learning/Section 3-Q learning",
     "Reinforcement learning",
-    "Untitled",
     "Excalidraw/Untitled.md",
     "Spring/Annotations.md",
     "Spring/Spring External properties.md",
@@ -204,7 +216,6 @@
     "Ideas/Open Source Ride booking App.md",
     "Ideas",
     "Spring",
-    "Solid Principle of OOP.md",
     "Excalidraw"
   ]
 }
