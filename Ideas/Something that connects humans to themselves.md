@@ -1,0 +1,1 @@
+A good innovation is something that can make humans feel great emotions
